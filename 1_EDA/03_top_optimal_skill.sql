@@ -24,7 +24,7 @@ WHERE
 GROUP BY
     sd. skills
 HAVING
-    COUNT (jpf.*) > 100
+    COUNT (jpf.*) > 150
 ORDER BY
     optimal_score DESC
 LIMIT 15;
