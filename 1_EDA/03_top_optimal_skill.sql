@@ -61,7 +61,7 @@ LIMIT 15;
 │ bigquery   │        135000 │             4.8 │          0.65 │
 ├────────────┴───────────────┴─────────────────┴───────────────┤
 
-
+Key Insights:
 
 **Terraform** ranks as the most valuable skill, offering the best balance of salary and demand.
 **Python**, **AWS**, and **SQL** remain the strongest core skills due to their consistently high demand and competitive salaries. 

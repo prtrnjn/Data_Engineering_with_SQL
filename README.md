@@ -1,4 +1,4 @@
-# Data Jobs Analysis 📊
+# Data Engineering Jobs Analysis 📊
 
 This repository contains SQL-based analyses of the job market, built with DuckDB / MotherDuck against the `data_jobs` database. It's organized as two standalone projects that share the same underlying data.
 
