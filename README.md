@@ -1,17 +1,18 @@
 # Data Engineering Jobs Analysis 📊
 
-This repository contains SQL-based analyses of the job market, built with DuckDB / MotherDuck against the `data_jobs` database. It's organized as two standalone projects that share the same underlying data.
+This repository contains SQL-based analyses of the job market, built with DuckDB / MotherDuck against the `data_jobs` database. It's organized as two standalone projects, first one being 1_EDA folder. The second will be updated. Both project are from the same database.
 
 ## 📁 Repository Structure
 
 ```
-.
-├── project-1-data-engineer-skills/
+
+├── 1_EDA/
 │   ├── 01_top_demanded_skill.sql
 │   ├── 02_top_paying_skill.sql
 │   └── 03_top_optimal_skill.sql
-└── project-2-<tbd>/
-    └── ...
+├── 2_<tbd>/
+│   └── ...
+└── README.md
 ```
 
 ## 📚 Projects in This Repo
